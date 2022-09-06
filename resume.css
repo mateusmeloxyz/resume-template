@@ -132,6 +132,9 @@ h3, h4, h5, p{
 }
 
 @media only screen and (max-width: 630px) {
+    h1, h2, h3, h4, h5 {
+        text-align: center;
+    }
     .title {
         flex-direction: column;
     }
