@@ -15,5 +15,5 @@ I've made this resume based on the following resources:
 [What Makes a Good Software Engineer Resume? (Reviewing programmer resumes) - PedroTech youtube channel](https://www.youtube.com/watch?v=DKG8alY2R34)
 
 ## Live demo:
-[mateusmelo.xyz/resume.html](https://mateusmelo.xyz/resume.html)
+[mateusmelo.xyz/resume](https://mateusmelo.xyz/resume)
 
