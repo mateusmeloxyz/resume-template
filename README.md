@@ -12,6 +12,8 @@ I've made this resume based on the following resources:
 
 [Less Is More: How I Cut My Resume To One Page - Gayle Laakmann McDowell](https://web.archive.org/web/20160416103123/http://blog.careercup.com/2011/01/less-is-more-how-i-cut-my-resume-to-one-page/)
 
+[Getting Your Résumé Read - Joel Spolsky](https://www.joelonsoftware.com/2004/01/26/getting-your-resume-read/)
+
 [What Makes a Good Software Engineer Resume? (Reviewing programmer resumes) - PedroTech youtube channel](https://www.youtube.com/watch?v=DKG8alY2R34)
 
 ## Live demo:
